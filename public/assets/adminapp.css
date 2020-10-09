@@ -1,0 +1,10 @@
+.center{
+	text-align: center;
+}
+.add-button{
+	float: right;
+	margin-top: 3px;
+}
+.page-container-bg-solid .page-content {
+    background: #ffffff;
+}
